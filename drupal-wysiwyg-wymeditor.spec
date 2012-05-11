@@ -5,7 +5,7 @@
 Name:		drupal-wysiwyg-%{oname}
 Summary:	WYMeditor for Drupal Wysiwyg module
 Version:	0.5
-Release:	%{?pre_rc:0.%{pre_rc}.}%{rel}
+Release:	%{?pre_rc:0.rc%{pre_rc}.}%{rel}
 License:	GPLv2 or MIT
 Group:		Networking/WWW
 URL:		http://www.wymeditor.org/
