@@ -42,3 +42,11 @@ rm %{buildroot}%{_var}/www/drupal//sites/all/libraries/%{oname}/{*.txt,README}
 %files
 %{_var}/www/drupal//sites/all/libraries/%{oname}
 %doc README
+
+
+%changelog
+* Fri May 11 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.5-0.rc2.1
++ Revision: 798354
+- imported package drupal-wysiwyg-wymeditor
+- imported package drupal-wysiwyg-wymeditor
+
