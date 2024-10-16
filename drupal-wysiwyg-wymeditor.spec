@@ -8,7 +8,7 @@ Version:	0.5
 Release:	%{?pre_rc:0.rc%{pre_rc}.}%{rel}
 License:	GPLv2 or MIT
 Group:		Networking/WWW
-URL:		http://www.wymeditor.org/
+URL:		https://www.wymeditor.org/
 Source0:	%{oname}-%{version}%{?pre_rc:-rc-%{pre_rc}}.tar.gz
 Requires:	drupal-wysiwyg
 Provides:	drupal-wysiwyg-editor
